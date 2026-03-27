@@ -5,7 +5,7 @@ Ambiente PHP com Apache rodando via Docker, voltado para testes e desenvolviment
 ## Pré-requisitos
 
 - [Git](https://git-scm.com/)
-- [Docker](https://www.docker.com/) com Docker Compose (versão v2 ou superior)
+- [Docker](https://www.docker.com/) baixe o Docker Desktop para o seu sistema operacional (é possível pular a criação de conta, se desejar)
 
 ## Passo a passo
 
