@@ -12,7 +12,8 @@ Ambiente PHP com Apache rodando via Docker, voltado para testes e desenvolviment
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+# Navegue no terminal até o diretório no qual você quer clonar a pasta do repositório
+git clone (https://github.com/brenocbmnz/docker_php_tests)
 cd docker_test_php
 ```
 
