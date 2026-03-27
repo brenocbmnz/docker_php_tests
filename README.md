@@ -1,4 +1,4 @@
-# Docker PHP - Ambiente de Desenvolvimento
+# Ambiente de Desenvolvimento PHP - Docker
 
 Ambiente PHP com Apache rodando via Docker, voltado para testes e desenvolvimento.
 
